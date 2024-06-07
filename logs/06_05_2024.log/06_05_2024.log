@@ -1,0 +1,12 @@
+[ 2024-06-05 15:46:31,090 ] 25 root - INFO - Data Ingestion started for Q1
+[ 2024-06-05 15:46:31,090 ] 35 root - INFO - Q1 data changed to two dimension
+[ 2024-06-05 15:46:31,091 ] 53 root - INFO - Q1 data saved
+[ 2024-06-05 15:46:31,091 ] 27 root - INFO - Data Ingestion completed for Q1
+[ 2024-06-05 15:46:31,091 ] 25 root - INFO - Data Ingestion started for Q2
+[ 2024-06-05 15:46:31,091 ] 35 root - INFO - Q2 data changed to two dimension
+[ 2024-06-05 15:46:31,091 ] 53 root - INFO - Q2 data saved
+[ 2024-06-05 15:46:31,091 ] 27 root - INFO - Data Ingestion completed for Q2
+[ 2024-06-05 15:46:31,092 ] 25 root - INFO - Data Ingestion started for Q3
+[ 2024-06-05 15:46:31,092 ] 35 root - INFO - Q3 data changed to two dimension
+[ 2024-06-05 15:46:31,092 ] 53 root - INFO - Q3 data saved
+[ 2024-06-05 15:46:31,092 ] 27 root - INFO - Data Ingestion completed for Q3

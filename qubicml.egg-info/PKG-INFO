@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: qubicml
+Version: 0.0.1
+Summary: Qubit State Discrimination
+Author: Neel Vora
+Author-email: NRVora@lbl.gov
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# Under Development
